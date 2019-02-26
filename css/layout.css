@@ -27,16 +27,18 @@
 .col-1 {
   float: left;
   width: 32%;
-  /*background: #ccc;*/
 }
 
 .col-2 {
   float: left;
-  width: 54%;
-  /*background: #ccc;*/
+  width: 56%;
 }
 
 .col-3 {
   width: 90%;
 
+}
+
+.shadow {
+  height: %;
 }
