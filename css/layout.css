@@ -26,22 +26,24 @@
 
 .col-1 {
   float: left;
-  width: 30%;
+  width: 32%;
 }
 
-.col-2 {
+ .col-2 {
   float: left;
-  width: 52%;
+  width: 66%;
 }
 
-.col-3 {
-  width: 90%;
+ .col-3 {
+  float:left;
+  width: 100%;
 
+ }
+
+ [class*="col-"] {
+  margin-left: 2%;
 }
 
-.shadow {
-  height: 20%;
-}
 
 .first {
   margin-left:0%;
